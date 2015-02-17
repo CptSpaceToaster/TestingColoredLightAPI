@@ -9,7 +9,7 @@ public class ExampleColoredLightBlock extends Block {
     protected ExampleColoredLightBlock() {
         super(Material.glass);
         
-        CLApi.setBlockColorRGB(this, 15, 0, 0, 15);
+        CLApi.setBlockColorRGB(this, 0, 6, 6);
         setCreativeTab(CreativeTabs.tabDecorations);        
     }
 }
