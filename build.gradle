@@ -29,7 +29,7 @@ minecraft {
 repositories {
     maven {
         name 'ColoredLightCore'
-        url "http://coloredlightscore.us.to/maven/"
+        url "http://coloredlightscore.us.to/maven/clc/"
     }
 }
 
